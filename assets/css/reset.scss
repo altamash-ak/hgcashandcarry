@@ -1,0 +1,38 @@
+html {
+  @apply box-border h-full;
+  -webkit-font-smoothing: antialiased;
+  font-size: 62.5%;
+}
+
+body {
+  @apply h-full;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+.hide {
+  display: none !important;
+}
+body {
+  @apply max-w-[1920px] m-auto relative overflow-x-clip bg-[#ffffff] font-nunito;
+}
