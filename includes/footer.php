@@ -21,7 +21,6 @@
         <ul>
           <li><a href="#">Shipping & Returns</a></li>
           <li><a href="#">Privacy Policy</a></li>
-          <li><a href="#">California Privacy Rights Notice</a></li>
           <li><a href="#">Terms & Conditions</a></li>
           <li><a href="#">Contact Us</a></li>
         </ul>

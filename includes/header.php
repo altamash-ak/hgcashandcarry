@@ -24,7 +24,7 @@
           <li><a href="#">About</a></li>
           <li><a href="#">Product</a></li>
           <li><a href="#">Blogs</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#">Contact Us</a></li>
         </ul>
         <div class="search">
           <input type="search" name="" id="" placeholder="search....">
